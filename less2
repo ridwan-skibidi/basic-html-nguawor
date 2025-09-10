@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tag element</title>
+</head>
+<body>
+    <!-- contoh tag element di html itu banyak dan bervariasi juga bisa di hias sesuka hati -->
+     <h1>List tag basic element :</h1>
+     <ol>
+        <li style="margin-bottom: 1cm;"> h1 - h6 
+            <br>semakin kecil angka semakin besar tulisannya, begitupun sebaliknya</br>
+        </li>
+            
+        <li style="margin-bottom: 1cm;"> br(break)
+            <br>biasanya untuk jeda paragraf,kata-kata,dll.definisi element ini biasanya digunakan untuk garis pemisah 'doang' atau element kosong tanpa closing tag
+        </li>
+        <li style="margin-bottom: 1cm;"> b(bold),i(italic),u(underline)
+            <br>lu harusnya tau lah ya yg kek di word itu kek <b>b</b> <i>i</i> <u>u</u>.
+        </li>
+     </ol>
+</body>
+</html>
