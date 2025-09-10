@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>atribut tag</title>
+</head>
+<body>
+    <!-- tag attribute ini ibarat name="value" -->
+    <h1>contoh basic atribut tag</h1>
+
+    <ol>
+        <li style="margin-bottom: 1cm;"> a .
+            <br>iya a doang. knp? ya karna tag ini buat tag link tapi kita bisa kasih variasi nama di linknya ex: <a href="https://www.youtube.com/watch?v=L8XbI9aJOXk">link pulsa gratis tanpa dipungut biaya bonus mazda miata pake mesin stututututuutututuututu</a>
+        </li>
+        <li style="margin-bottom: 1cm;">
+            img
+            <br>tag ini ya dari namanya aja dah ketauan lah ya lu pada taulah ini tag apaan males gw yapping jelasinnya taii.btw ini tag bisa di isi link link kaya a tadi.lu pada nanya gambarnya bisa dpet dari mana ae? bisa link bisa dari file download lau yang disimpen di folder beda atau 1 folder ama project lau
+        </li>
+        <li style="margin-bottom: 1cm;">width(lebar) and height(tinggi)
+            <br>tag ini cm buat scaling lebar tinggi gambar biasanya itu doang si
+        </li>
+        <li style="margin-bottom: 1cm;">alt
+            <br>sbnernya yang ini juga nyambung gitu ke gambar ler contoh file gambar lu korup lah ato link yang lu masukin salah lah yang lu masukin jadi orang ga liat logo "🖼️" gini doang jadi kek ada penjelasannya gitu ini gambar tentang apa tanpa harus load gambarny.
+        </li>
+        <li style="margin-bottom: 1cm;">
+            
+        </li>
+    </ol>
+
+</body>
+</html>
