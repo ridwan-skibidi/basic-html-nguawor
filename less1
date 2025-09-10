@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<!-- Deklarasi !DOCTYPE digunakan untuk web bertipe document type, dan membantu browser menampilkan halaman web dengan benar. -->
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>judul</title>
+    <!-- untuk judul di tab bar setiap web -->
+</head>
+<!-- bisa digunakan untuk css external styling, untuk connect database server,untuk link bar -->
+<body>
+    <!-- biasanya bagan ini untuk isi web aja(main course buat web ex:element kayak <h1></h1>).-->
+    
+    <h1></h1> 
+    <!-- Elemen HTML didefinisikan oleh tag awal, beberapa konten, dan tag akhir. -->
+
+
+</body>
+</html>
